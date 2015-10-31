@@ -1,0 +1,9 @@
+body
+{
+
+	background-color: $bodyBG;
+	color: $bodyFG;
+	font-family: $bodyFONT;
+	text-align: $text-align;
+	
+}

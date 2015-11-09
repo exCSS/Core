@@ -7,7 +7,7 @@ text-align="center"
 
 [Grid]
 grid-parts=6
-grid-height=0%
+grid-height=100vh
 grid-props=1-2-2-1
 
 [#div1]

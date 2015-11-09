@@ -5,7 +5,7 @@
 	 *
 	 */
 	 
-	$VERSION="0.01";
+	$VERSION="0.02";
 	include 'parser.php';
 	
 	function IncludeCSS ($css, $ex)

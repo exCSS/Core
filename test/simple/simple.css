@@ -5,5 +5,7 @@ body
 	color: $bodyFG;
 	font-family: $bodyFONT;
 	text-align: $text-align;
+	margin: 0px;
+	padding: 0px;
 	
 }

@@ -21,8 +21,3 @@ grid-position=3
 
 [#div4]
 grid-position=4
-
-[#animated_span]
-animation=fadeIn
-animation-duration=1
-animation-delay=0

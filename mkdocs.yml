@@ -5,6 +5,8 @@ pages:
     - Variables: variables.md
     - Grid System: grid.md
     - Animations: animations.md
+- Extras:
+	- Animation List: animation_list.md
 
 theme: readthedocs
 repo_url: http://github.com/exCSS/core

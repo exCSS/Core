@@ -1,7 +1,7 @@
 site_name: exCSS Documentation
 pages:
 - Home: index.md
-- Functions
+- Functions:
     - Variables: variables.md
     - Grid System: grid.md
     - Animations: animations.md

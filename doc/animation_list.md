@@ -1,11 +1,11 @@
 #***ANIMATION LIST***
 
-*Animation name** | [**delay**](http://excss.readthedocs.org/en/latest/animation_list/#delay) | [**duration**](http://excss.readthedocs.org/en/latest/animation_list/#duration) | [**range**](http://excss.readthedocs.org/en/latest/animation_list/#range) | [**left**](http://excss.readthedocs.org/en/latest/animation_list/#left) |
-|:------------------:|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
-|       fadeIn       | X                                                                         | X                                                                               | -                                                                         | -                                                                       |
-|       fadeOut      | X                                                                         | X                                                                               | -                                                                         | -                                                                       |
-|    slideInRight    | X                                                                         | X                                                                               | X                                                                         | X                                                                       |
-|     slideInLeft    | X                                                                         | X                                                                               | X                                                                         | X                                                                       |
+| **Animation name** 	| **delay** 	| **duration** 	| **range** 	| **left** 	|
+|:------------------:	|-----------	|--------------	|-----------	|----------	|
+|       fadeIn       	|     X     	|       X      	|     -     	|     -    	|
+|       fadeOut      	|     X     	|       X      	|     -     	|     -    	|
+|    slideInRight    	|     X     	|       X      	|     X     	|     X    	|
+|     slideInLeft    	|     X     	|       X      	|     X     	|     X    	|
 
 
 ###delay

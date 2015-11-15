@@ -50,8 +50,4 @@ grid-position=1
 
 ```
 
-<<<<<<< HEAD
 Now the element with the **ID** *YourElement* will be the first part (1x long) of the grid. When you want to put an element in the Grid which uses classes you can just replace the **"#"** to **"."**. When you want to put all types of an element in the Grid do not use any of these characters("#" or "."). For example just write *div*  into the tags.
-=======
-Now the element with the **ID** *YourElement* will be the first part (1x long) of the grid. When you want to put an element in the Grid which uses classes you can just replace the **#** to **.**. When you want to put all types of an element in the Grid do not use any of these characters("#" or "."). For example just write *div*  into the tags.
->>>>>>> branch 'master' of https://github.com/exCSS/Core.git

@@ -25,4 +25,4 @@ animation-parameter="delay:0s;duration:1.5s"
 
 ###***Animation List***
 
-You can find a list of all animations [here](http://excss.readthedocs.org/en/latest/extras/#animation-list)!
+You can find a list of all animations [here](http://excss.readthedocs.org/en/latest/animation_list/#animation-list)!

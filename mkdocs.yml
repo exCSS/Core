@@ -1,0 +1,7 @@
+site_name: exCSS Documentation
+pages:
+- Home: index.md
+
+theme: readthedocs
+repo_url: http://github.com/exCSS/core
+site_author: Tom Messerschmidt

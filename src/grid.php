@@ -1,7 +1,5 @@
 <?php
-
 	$height;
-
 	class Grid
 	{
 	
@@ -15,7 +13,7 @@
 			$used = 0;
 			$this->element_array = array();
 			for($counter = 0;$used < 100;$counter++)
-			{ 
+			{
 				$element_size = $size * $props[$counter];
 				array_push($this->element_array, $element_size);
 				$used += $element_size;
@@ -31,5 +29,4 @@
 		}
 	
 	}
-
 ?>

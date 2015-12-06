@@ -1,5 +1,4 @@
 <?php
-
 	/*
 	 * Copyright (C) 2015 Tom Messerschmidt
 	 *
@@ -14,6 +13,4 @@
 		$parser->parse($ex, $css);
 	}
 	
-
-
 ?>
